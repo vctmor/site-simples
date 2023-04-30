@@ -2,3 +2,23 @@
 *{
     background-color: grey;
 }
+
+body {
+    font-family: monospace;
+}
+
+ul{
+    font-family: hekvética;
+}
+
+li{
+    list-style: circle;
+}
+
+.list{
+    list-style: square;
+}
+
+#msg {
+    font-family: monospace;
+}
