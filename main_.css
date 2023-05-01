@@ -35,17 +35,13 @@ li{
 .light-theme{
     --bg: var(--green);
     --fontColor: var(--black);
-    --btng: vr(--black);
-    --btnFontColor: var(--white);
 } 
 
 .dark-theme{
     --bg: var(--black);
     --fontColor: var(--green);
-    --btnBg: var(--white);
-    --btnFontColor: var(--black)
 }
-.btn{
+.bnt{
     position:absolute;
     top:20px;
     left:280px;
